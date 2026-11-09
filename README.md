@@ -22,6 +22,7 @@ To run this engineering marvel, simply double-click the file:
  https://samarthnarsipur.github.io/cubed-calcing/
 ```
 Or just drag it into your browser tab and start smashing buttons.
+<img width="1917" height="1078" alt="Screenshot 2026-11-04 063435" src="https://github.com/user-attachments/assets/e8f0df98-8d06-421d-b087-a010077ad35e" />
 
 ## Help
 * **Problem:** The screen says `Error`. 
