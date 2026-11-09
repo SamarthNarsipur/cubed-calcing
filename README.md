@@ -27,4 +27,4 @@ git clone https://github.com
 ---
 
 ## 👨‍💻 Author
-Built by **[Samarth Narsipur](https://github.com)**.
+Built by **[Samarth Narsipur](https://github.com)**. haha haha hope you enjoy this calculator....:) (:
