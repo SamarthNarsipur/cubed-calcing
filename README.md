@@ -5,9 +5,6 @@ A simple web-based calculator for people who refuse to do basic addition in thei
 ## Description
 Let’s be honest: you forgot what 7 + 8 is. It’s okay, we’ve all been there. This web-based calculator is a sleek, no-nonsense application designed to save you from public embarrassment. Built with standard-issue web magic, it handles adding, subtracting, multiplying, and dividing without judging your life choices. It won't compute quantum physics, but it absolutely guarantees you won't miscalculate the pizza tip again. 
 
-## Screenshots
-![A gloriously clicky calculator interface](https://placeholder.com)
-
 ## Getting Started
 
 ### Dependencies
@@ -22,7 +19,7 @@ Let’s be honest: you forgot what 7 + 8 is. It’s okay, we’ve all been there
 ### Executing program
 To run this engineering marvel, simply double-click the file:
 ```bash
-open index.html
+ https://samarthnarsipur.github.io/cubed-calcing/
 ```
 Or just drag it into your browser tab and start smashing buttons.
 
