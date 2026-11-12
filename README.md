@@ -1,4 +1,4 @@
-# 🧮 Total Eclipse of the Math: A Not-So-Broken Calculator
+#  Total Eclipse of the Math: A Not-So-Broken Calculator
 
 A simple web-based calculator for people who refuse to do basic addition in their heads.
 
